@@ -1,6 +1,3 @@
-###RTC-Extensions
-=================
+###RTC Extensions
 
-Repository of simple extensions of late for Chrome
-
-oneworld license/no-troll license free unrestrict
+####just some recent extension work
